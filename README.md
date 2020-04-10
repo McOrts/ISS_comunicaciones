@@ -6,7 +6,7 @@ Se pueden encontrar varias aplicaciones para móvil lo que permite tener la info
 ### Instalación
 He elegido una opción _Maker_ utilizando una Raspberry Pi para instalar GPredictt. Al ser una aplicación de escritorio he elegido esta forma de instalación:
 <br>
-<img src="./images/Screen%20Shot%202020-04-10%20at%2009.19.13.png" width="600"  align="right"  />
+<img src="./images/Screen%20Shot%202020-04-10%20at%2009.19.13.png" width="600"  align="right" />
 <br>
 Después de actualizar los ficheros TLE y cambiar algunas configuraciones. Se puede tener un tracking en tiempo real y muy preciso de la ISS:
 <br>
